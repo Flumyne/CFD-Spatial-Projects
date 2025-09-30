@@ -69,4 +69,4 @@
 
     Post-traitement attendu
       Visualisation des vortex de Von Kármán plus serrés et plus instables qu’au cas laminaire.
-      Extraction de Cd, Cl et comparaison avec données de la littérature.
+      Extraction de Cd, Cl
